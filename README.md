@@ -20,3 +20,7 @@ Fonts: Google Fonts<br>
 
 ### Acknowledgments
 I would like to express my gratitude to the creator of the YouTube tutorial that guided me in building this project. It was a valuable learning experience that laid the foundation for my web development journey.
+
+<p align="center">
+<img src="website picture.jpg" alt="Logo" width="700" height="350">
+</p>
